@@ -1,0 +1,252 @@
+{
+  "dataset_name": "5694-9szk.tsv.gz",
+  "columns": [
+    {
+      "column_name": "ID",
+      "semantic_types": [
+        {
+          "semantic_type": "ID",
+          "count": 1877
+        },
+        {
+          "semantic_type": "Null",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "column_name": "Name of Business",
+      "semantic_types": [
+        {
+          "semantic_type": "Name of Business",
+          "count": 1877
+        },
+        {
+          "semantic_type": "Null",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "column_name": "Short Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Short Description",
+          "count": 1869
+        },
+        {
+          "semantic_type": "Null",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "column_name": "Address",
+      "semantic_types": [
+        {
+          "semantic_type": "Address",
+          "count": 1877
+        },
+        {
+          "semantic_type": "Null",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "column_name": "City",
+      "semantic_types": [
+        {
+          "semantic_type": "City",
+          "count": 1877
+        },
+        {
+          "semantic_type": "Null",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "column_name": "State",
+      "semantic_types": [
+        {
+          "semantic_type": "State",
+          "count": 1877
+        },
+        {
+          "semantic_type": "Null",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "column_name": "Postcode",
+      "semantic_types": [
+        {
+          "semantic_type": "Postcode",
+          "count": 1859
+        },
+        {
+          "semantic_type": "Null",
+          "count": 18
+        }
+      ]
+    },
+    {
+      "column_name": "Phone Number",
+      "semantic_types": [
+        {
+          "semantic_type": "Phone Number",
+          "count": 1648
+        },
+        {
+          "semantic_type": "Null",
+          "count": 229
+        }
+      ]
+    },
+    {
+      "column_name": "Which type of business is this?",
+      "semantic_types": [
+        {
+          "semantic_type": "Which type of business is this?",
+          "count": 1877
+        },
+        {
+          "semantic_type": "Null",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "column_name": "Business Website or Other URL",
+      "semantic_types": [
+        {
+          "semantic_type": "Business Website or Other URL",
+          "count": 1474
+        },
+        {
+          "semantic_type": "Null",
+          "count": 403
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "Borough",
+          "count": 1796
+        },
+        {
+          "semantic_type": "Null",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "column_name": "Latitude",
+      "semantic_types": [
+        {
+          "semantic_type": "Latitude",
+          "count": 1796
+        },
+        {
+          "semantic_type": "Null",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "column_name": "Longitude",
+      "semantic_types": [
+        {
+          "semantic_type": "Longitude",
+          "count": 1796
+        },
+        {
+          "semantic_type": "Null",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "column_name": "Community Board",
+      "semantic_types": [
+        {
+          "semantic_type": "Community Board",
+          "count": 1796
+        },
+        {
+          "semantic_type": "Null",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "column_name": "Council District",
+      "semantic_types": [
+        {
+          "semantic_type": "Council District",
+          "count": 1796
+        },
+        {
+          "semantic_type": "Null",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "column_name": "Census Tract",
+      "semantic_types": [
+        {
+          "semantic_type": "Census Tract",
+          "count": 1796
+        },
+        {
+          "semantic_type": "Null",
+          "count": 81
+        }
+      ]
+    },
+    {
+      "column_name": "BIN",
+      "semantic_types": [
+        {
+          "semantic_type": "BIN",
+          "count": 1777
+        },
+        {
+          "semantic_type": "Null",
+          "count": 100
+        }
+      ]
+    },
+    {
+      "column_name": "BBL",
+      "semantic_types": [
+        {
+          "semantic_type": "BBL",
+          "count": 1777
+        },
+        {
+          "semantic_type": "Null",
+          "count": 100
+        }
+      ]
+    },
+    {
+      "column_name": "NTA",
+      "semantic_types": [
+        {
+          "semantic_type": "NTA",
+          "count": 1796
+        },
+        {
+          "semantic_type": "Null",
+          "count": 81
+        }
+      ]
+    }
+  ]
+}

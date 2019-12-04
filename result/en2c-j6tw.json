@@ -1,0 +1,603 @@
+{
+  "dataset_name": "en2c-j6tw.tsv.gz",
+  "columns": [
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Boro-Block-Lot",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Boro-Block-Lot",
+          "count": 328
+        },
+        {
+          "semantic_type": "Null",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Condo Section",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Condo Section",
+          "count": 188
+        },
+        {
+          "semantic_type": "Null",
+          "count": 140
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Address",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Address",
+          "count": 186
+        },
+        {
+          "semantic_type": "Null",
+          "count": 142
+        }
+      ]
+    },
+    {
+      "column_name": "Borough",
+      "semantic_types": [
+        {
+          "semantic_type": "Borough",
+          "count": 138
+        },
+        {
+          "semantic_type": "Null",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "Postcode",
+      "semantic_types": [
+        {
+          "semantic_type": "Postcode",
+          "count": 138
+        },
+        {
+          "semantic_type": "Null",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "Latitude",
+      "semantic_types": [
+        {
+          "semantic_type": "Latitude",
+          "count": 138
+        },
+        {
+          "semantic_type": "Null",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "Longitude",
+      "semantic_types": [
+        {
+          "semantic_type": "Longitude",
+          "count": 138
+        },
+        {
+          "semantic_type": "Null",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "Community Board",
+      "semantic_types": [
+        {
+          "semantic_type": "Community Board",
+          "count": 138
+        },
+        {
+          "semantic_type": "Null",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "Council District",
+      "semantic_types": [
+        {
+          "semantic_type": "Council District",
+          "count": 138
+        },
+        {
+          "semantic_type": "Null",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "Census Tract",
+      "semantic_types": [
+        {
+          "semantic_type": "Census Tract",
+          "count": 138
+        },
+        {
+          "semantic_type": "Null",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "BIN",
+      "semantic_types": [
+        {
+          "semantic_type": "BIN",
+          "count": 138
+        },
+        {
+          "semantic_type": "Null",
+          "count": 190
+        }
+      ]
+    },
+    {
+      "column_name": "BBL",
+      "semantic_types": [
+        {
+          "semantic_type": "BBL",
+          "count": 92
+        },
+        {
+          "semantic_type": "Null",
+          "count": 236
+        }
+      ]
+    },
+    {
+      "column_name": "NTA",
+      "semantic_types": [
+        {
+          "semantic_type": "NTA",
+          "count": 92
+        },
+        {
+          "semantic_type": "Null",
+          "count": 236
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Neighborhood",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Building Classification",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Total Units",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Total Units",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Year Built",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Year Built",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Gross SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Gross SqFt",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": "`BRONX CONDOMINIUM PROPERTY Est. Gross Income`",
+      "semantic_types": [
+        {
+          "semantic_type": "`BRONX CONDOMINIUM PROPERTY Est. Gross Income`",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Gross Income per SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Gross Income per SqFt",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Full Market Value",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Full Market Value",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": "BRONX CONDOMINIUM PROPERTY Market Value per SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "BRONX CONDOMINIUM PROPERTY Market Value per SqFt",
+          "count": 48
+        },
+        {
+          "semantic_type": "Null",
+          "count": 280
+        }
+      ]
+    },
+    {
+      "column_name": " COMPARABLE RENTAL 1 Boro-Block-Lot",
+      "semantic_types": [
+        {
+          "semantic_type": " COMPARABLE RENTAL 1 Boro-Block-Lot",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1 Address",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1 Address",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1  Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1  Neighborhood",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1  Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1  Building Classification",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1  Total Units",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1  Total Units",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1  Year Built",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1  Year Built",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1  Gross SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1  Gross SqFt",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "`COMPARABLE RENTAL 1  Est. Gross Income`",
+      "semantic_types": [
+        {
+          "semantic_type": "`COMPARABLE RENTAL 1  Est. Gross Income`",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1  Gross Income per SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1  Gross Income per SqFt",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1 Full Market Value",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1 Full Market Value",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 1  Market Value per SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 1  Market Value per SqFt",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "`COMPARABLE RENTAL 1  Dist. from Coop in miles`",
+      "semantic_types": [
+        {
+          "semantic_type": "`COMPARABLE RENTAL 1  Dist. from Coop in miles`",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Boro-Block-Lot",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Boro-Block-Lot",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Address",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Address",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Neighborhood",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Neighborhood",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Building Classification",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Building Classification",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Total Units",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Total Units",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Year Built",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Year Built",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Gross SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Gross SqFt",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "`COMPARABLE RENTAL 2  Est. Gross Income`",
+      "semantic_types": [
+        {
+          "semantic_type": "`COMPARABLE RENTAL 2  Est. Gross Income`",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Gross Income per SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Gross Income per SqFt",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Full Market Value",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Full Market Value",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "COMPARABLE RENTAL 2  Market Value per SqFt",
+      "semantic_types": [
+        {
+          "semantic_type": "COMPARABLE RENTAL 2  Market Value per SqFt",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    },
+    {
+      "column_name": "`COMPARABLE RENTAL 2  Dist. from Coop in miles`",
+      "semantic_types": [
+        {
+          "semantic_type": "`COMPARABLE RENTAL 2  Dist. from Coop in miles`",
+          "count": 0
+        },
+        {
+          "semantic_type": "Null",
+          "count": 328
+        }
+      ]
+    }
+  ]
+}

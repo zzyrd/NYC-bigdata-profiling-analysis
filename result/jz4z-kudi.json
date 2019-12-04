@@ -1,0 +1,1019 @@
+{
+  "dataset_name": "jz4z-kudi.tsv.gz",
+  "columns": [
+    {
+      "column_name": "Ticket Number",
+      "semantic_types": [
+        {
+          "semantic_type": "Ticket Number",
+          "count": 16652810
+        },
+        {
+          "semantic_type": "Null",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Date",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Date",
+          "count": 16610161
+        },
+        {
+          "semantic_type": "Null",
+          "count": 42649
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Time",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Time",
+          "count": 12932681
+        },
+        {
+          "semantic_type": "Null",
+          "count": 3720129
+        }
+      ]
+    },
+    {
+      "column_name": "Issuing Agency",
+      "semantic_types": [
+        {
+          "semantic_type": "Issuing Agency",
+          "count": 10919508
+        },
+        {
+          "semantic_type": "Null",
+          "count": 5733302
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent First Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent First Name",
+          "count": 6919251
+        },
+        {
+          "semantic_type": "Null",
+          "count": 9733559
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Last Name",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent Last Name",
+          "count": 11708750
+        },
+        {
+          "semantic_type": "Null",
+          "count": 4944060
+        }
+      ]
+    },
+    {
+      "column_name": "Balance Due",
+      "semantic_types": [
+        {
+          "semantic_type": "Balance Due",
+          "count": 3902577
+        },
+        {
+          "semantic_type": "Null",
+          "count": 12750233
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (Borough)",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Location (Borough)",
+          "count": 16635675
+        },
+        {
+          "semantic_type": "Null",
+          "count": 17135
+        }
+      ]
+    },
+    {
+      "column_name": "`Violation Location (Block No.)`",
+      "semantic_types": [
+        {
+          "semantic_type": "`Violation Location (Block No.)`",
+          "count": 11142627
+        },
+        {
+          "semantic_type": "Null",
+          "count": 5510183
+        }
+      ]
+    },
+    {
+      "column_name": "`Violation Location (Lot No.)`",
+      "semantic_types": [
+        {
+          "semantic_type": "`Violation Location (Lot No.)`",
+          "count": 11138799
+        },
+        {
+          "semantic_type": "Null",
+          "count": 5514011
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (House #)",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Location (House #)",
+          "count": 8784469
+        },
+        {
+          "semantic_type": "Null",
+          "count": 7868341
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (Street Name)",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Location (Street Name)",
+          "count": 10038941
+        },
+        {
+          "semantic_type": "Null",
+          "count": 6613869
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (Floor)",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Location (Floor)",
+          "count": 2839
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16649971
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (City)",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Location (City)",
+          "count": 13347033
+        },
+        {
+          "semantic_type": "Null",
+          "count": 3305777
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (Zip Code)",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Location (Zip Code)",
+          "count": 15228587
+        },
+        {
+          "semantic_type": "Null",
+          "count": 1424223
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Location (State Name)",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Location (State Name)",
+          "count": 9859745
+        },
+        {
+          "semantic_type": "Null",
+          "count": 6793065
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address (Borough)",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent Address (Borough)",
+          "count": 16369907
+        },
+        {
+          "semantic_type": "Null",
+          "count": 282903
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address (House #)",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent Address (House #)",
+          "count": 12785973
+        },
+        {
+          "semantic_type": "Null",
+          "count": 3866837
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address (Street Name)",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent Address (Street Name)",
+          "count": 10867641
+        },
+        {
+          "semantic_type": "Null",
+          "count": 5785169
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address (City)",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent Address (City)",
+          "count": 9712857
+        },
+        {
+          "semantic_type": "Null",
+          "count": 6939953
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address (Zip Code)",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent Address (Zip Code)",
+          "count": 12447424
+        },
+        {
+          "semantic_type": "Null",
+          "count": 4205386
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address (State Name)",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent Address (State Name)",
+          "count": 9704097
+        },
+        {
+          "semantic_type": "Null",
+          "count": 6948713
+        }
+      ]
+    },
+    {
+      "column_name": "Hearing Status",
+      "semantic_types": [
+        {
+          "semantic_type": "Hearing Status",
+          "count": 12926250
+        },
+        {
+          "semantic_type": "Null",
+          "count": 3726560
+        }
+      ]
+    },
+    {
+      "column_name": "Hearing Result",
+      "semantic_types": [
+        {
+          "semantic_type": "Hearing Result",
+          "count": 9576816
+        },
+        {
+          "semantic_type": "Null",
+          "count": 7075994
+        }
+      ]
+    },
+    {
+      "column_name": "Scheduled Hearing Location",
+      "semantic_types": [
+        {
+          "semantic_type": "Scheduled Hearing Location",
+          "count": 12541073
+        },
+        {
+          "semantic_type": "Null",
+          "count": 4111737
+        }
+      ]
+    },
+    {
+      "column_name": "Hearing Date",
+      "semantic_types": [
+        {
+          "semantic_type": "Hearing Date",
+          "count": 14506700
+        },
+        {
+          "semantic_type": "Null",
+          "count": 2146110
+        }
+      ]
+    },
+    {
+      "column_name": "Hearing Time",
+      "semantic_types": [
+        {
+          "semantic_type": "Hearing Time",
+          "count": 13913300
+        },
+        {
+          "semantic_type": "Null",
+          "count": 2739510
+        }
+      ]
+    },
+    {
+      "column_name": "Decision Location (Borough)",
+      "semantic_types": [
+        {
+          "semantic_type": "Decision Location (Borough)",
+          "count": 3623538
+        },
+        {
+          "semantic_type": "Null",
+          "count": 13029272
+        }
+      ]
+    },
+    {
+      "column_name": "Decision Date",
+      "semantic_types": [
+        {
+          "semantic_type": "Decision Date",
+          "count": 10908788
+        },
+        {
+          "semantic_type": "Null",
+          "count": 5744022
+        }
+      ]
+    },
+    {
+      "column_name": "Total Violation Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Total Violation Amount",
+          "count": 15615173
+        },
+        {
+          "semantic_type": "Null",
+          "count": 1037637
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Details",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Details",
+          "count": 14476422
+        },
+        {
+          "semantic_type": "Null",
+          "count": 2176388
+        }
+      ]
+    },
+    {
+      "column_name": "Date Judgment Docketed",
+      "semantic_types": [
+        {
+          "semantic_type": "Date Judgment Docketed",
+          "count": 2894199
+        },
+        {
+          "semantic_type": "Null",
+          "count": 13758611
+        }
+      ]
+    },
+    {
+      "column_name": "Respondent Address or Facility Number(For FDNY and DOB Tickets)",
+      "semantic_types": [
+        {
+          "semantic_type": "Respondent Address or Facility Number(For FDNY and DOB Tickets)",
+          "count": 1582531
+        },
+        {
+          "semantic_type": "Null",
+          "count": 15070279
+        }
+      ]
+    },
+    {
+      "column_name": "Penalty Imposed",
+      "semantic_types": [
+        {
+          "semantic_type": "Penalty Imposed",
+          "count": 14957983
+        },
+        {
+          "semantic_type": "Null",
+          "count": 1694827
+        }
+      ]
+    },
+    {
+      "column_name": "Paid Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Paid Amount",
+          "count": 12147806
+        },
+        {
+          "semantic_type": "Null",
+          "count": 4505004
+        }
+      ]
+    },
+    {
+      "column_name": "Additional Penalties or Late Fees",
+      "semantic_types": [
+        {
+          "semantic_type": "Additional Penalties or Late Fees",
+          "count": 4393993
+        },
+        {
+          "semantic_type": "Null",
+          "count": 12258817
+        }
+      ]
+    },
+    {
+      "column_name": "Compliance Status",
+      "semantic_types": [
+        {
+          "semantic_type": "Compliance Status",
+          "count": 7329985
+        },
+        {
+          "semantic_type": "Null",
+          "count": 9322825
+        }
+      ]
+    },
+    {
+      "column_name": "Violation Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Violation Description",
+          "count": 297126
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16355684
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #1: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #1: Code",
+          "count": 11478595
+        },
+        {
+          "semantic_type": "Null",
+          "count": 5174215
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #1: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #1: Code Section",
+          "count": 11031619
+        },
+        {
+          "semantic_type": "Null",
+          "count": 5621191
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #1: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #1: Code Description",
+          "count": 10340954
+        },
+        {
+          "semantic_type": "Null",
+          "count": 6311856
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #1: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #1: Infraction Amount",
+          "count": 10724761
+        },
+        {
+          "semantic_type": "Null",
+          "count": 5928049
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #2: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #2: Code",
+          "count": 1134249
+        },
+        {
+          "semantic_type": "Null",
+          "count": 15518561
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #2: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #2: Code Section",
+          "count": 810927
+        },
+        {
+          "semantic_type": "Null",
+          "count": 15841883
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #2: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #2: Code Description",
+          "count": 574330
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16078480
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #2: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #2: Infraction Amount",
+          "count": 557328
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16095482
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #3: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #3: Code",
+          "count": 756932
+        },
+        {
+          "semantic_type": "Null",
+          "count": 15895878
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #3: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #3: Code Section",
+          "count": 514729
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16138081
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #3: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #3: Code Description",
+          "count": 326835
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16325975
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #3: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #3: Infraction Amount",
+          "count": 252332
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16400478
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #4: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #4: Code",
+          "count": 530328
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16122482
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #4: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #4: Code Section",
+          "count": 379332
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16273478
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #4: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #4: Code Description",
+          "count": 253417
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16399393
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #4: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #4: Infraction Amount",
+          "count": 152546
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16500264
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #5: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #5: Code",
+          "count": 397212
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16255598
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #5: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #5: Code Section",
+          "count": 269828
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16382982
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #5: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #5: Code Description",
+          "count": 190421
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16462389
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #5: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #5: Infraction Amount",
+          "count": 85472
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16567338
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #6: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #6: Code",
+          "count": 328303
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16324507
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #6: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #6: Code Section",
+          "count": 213114
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16439696
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #6: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #6: Code Description",
+          "count": 139938
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16512872
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #6: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #6: Infraction Amount",
+          "count": 69729
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16583081
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #7: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #7: Code",
+          "count": 240072
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16412738
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #7: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #7: Code Section",
+          "count": 153263
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16499547
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #7: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #7: Code Description",
+          "count": 100464
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16552346
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #7: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #7: Infraction Amount",
+          "count": 48603
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16604207
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #8: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #8: Code",
+          "count": 203219
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16449591
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #8: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #8: Code Section",
+          "count": 122428
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16530382
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #8: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #8: Code Description",
+          "count": 75782
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16577028
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #8: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #8: Infraction Amount",
+          "count": 40221
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16612589
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #9: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #9: Code",
+          "count": 172604
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16480206
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #9: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #9: Code Section",
+          "count": 102137
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16550673
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #9: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #9: Code Description",
+          "count": 59585
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16593225
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #9: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #9: Infraction Amount",
+          "count": 36536
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16616274
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #10: Code",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #10: Code",
+          "count": 132401
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16520409
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #10: Code Section",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #10: Code Section",
+          "count": 73549
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16579261
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #10: Code Description",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #10: Code Description",
+          "count": 47360
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16605450
+        }
+      ]
+    },
+    {
+      "column_name": "Charge #10: Infraction Amount",
+      "semantic_types": [
+        {
+          "semantic_type": "Charge #10: Infraction Amount",
+          "count": 21196
+        },
+        {
+          "semantic_type": "Null",
+          "count": 16631614
+        }
+      ]
+    }
+  ]
+}
