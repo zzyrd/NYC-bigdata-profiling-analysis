@@ -10,7 +10,7 @@ We focus on more than 1900 datasets.
 3. Fancy work to be continuing...
 
 
-# infrastructure
+# Infrastructure
 Apache Hadoop
 
 Apache spark
