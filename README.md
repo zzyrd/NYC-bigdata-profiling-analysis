@@ -14,5 +14,3 @@ We focus on more than 1900 datasets.
 Apache Hadoop
 
 Apache spark
-
-# More details will be updated
